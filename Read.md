@@ -9,7 +9,8 @@ The goal is to understand why customers leave, which segments have the highest c
 
 Below is the main Power BI dashboard visual:
 
-![Churn Analysis Dashboard](/mnt/data/churn_analysis.jpg)
+![Dashboard](screenshot/churn_analysis.jpg)
+
 
 
 ---
