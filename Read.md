@@ -11,6 +11,7 @@ Below is the main Power BI dashboard visual:
 
 ![Churn Analysis Dashboard](/mnt/data/churn_analysis.jpg)
 
+
 ---
 
 ## 📌 Project Overview
